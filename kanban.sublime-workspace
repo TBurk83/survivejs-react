@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"import",
+				"import"
+			],
+			[
+				"export",
+				"export:variable\tES6 Module Export Variable"
+			],
+			[
+				"gro",
+				"GroceryItem"
+			],
+			[
+				"re",
+				"req\trequire"
+			],
+			[
+				"mo",
+				"module.exports"
+			],
+			[
+				"req",
+				"require\tcommonjs"
+			],
+			[
+				"Reddit",
+				"RedditArticle\tclass"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			],
+			[
+				"angular",
+				"angular.module"
+			],
+			[
+				"newUser",
+				"newUserData"
+			],
+			[
+				"dropd",
+				"dropdown-toggle"
+			],
+			[
+				"na",
+				"navbar-right"
+			],
+			[
+				"create",
+				"crypto.createHmac"
+			],
+			[
+				"cryp",
+				"crypto.Hmac();"
+			],
+			[
+				"rand",
+				"crypto.randomBytes();"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"navbar-fix",
+				"navbar-fixed-top"
+			],
+			[
+				"$loca",
+				"$locationProvider\tAngularJS"
+			],
+			[
+				"__",
+				"__dirname"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nGitGutter\n---------\n\n  1.7.6:\n  ------\n  \n     C H A N G E L O G\n  \n    Fix:\n     - Enable GitGuter incase \"git_gutter_enable\" is not present.\n     - Support Info module provides no GitGutter version.\n     - Calling git_gutter_diff_popup with missing mdpopups causes exception.\n  \n    README:\n     - Update Troubleshooting for MacOS Xcode license.\n     - Added Monokai Pro to supported color schemes list.\n  \n    Enhancement:\n     - Improve diff popup visibility on light color schemes\n     - Show commit details in Compare against branch/tag\n  \n  \n  💛 Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer the following discounts:\n  \n  +------------------------------------------------+\n  |                                                |\n  |   Use the coupon code GITGUTTER for $10 off    |\n  |                                                |\n  +------------------------------------------------+\n  \n  🏅 ⭐ ES6 ⭐\n  \n  👉 ES6.io/friend/GITGUTTER\n  \n  🏅 ⭐ Sublime Text Book ⭐\n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  \n  🏅 ⭐ React For Beginners ⭐\n  \n  👉 ReactForBeginners.com/friend/GITGUTTER\n  \n  \n  Join 15,000 other developers already learning with Wes Bos.\n  \n  These are fantastic resources - 100% money back guarantee! 🌟\n",
+			"settings":
+			{
+				"buffer_size": 1310,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"disale",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"jsnex",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"esnext",
+				"Set Syntax: Ecmascript"
+			],
+			[
+				"syntax ecm",
+				"Set Syntax: Ecmascript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insg",
+				"Package Control: Install Package"
+			],
+			[
+				"haml",
+				"HTML2Haml: Convert file"
+			],
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/trevorburkholder/Documents/dev/react/kanban-app"
+	],
+	"file_history":
+	[
+		"/Users/trevorburkholder/Documents/dev/react/kanban-app/app/components/App.jsx",
+		"/Users/trevorburkholder/Documents/dev/react/kanban-app/node_modules/fsevents/node_modules/console-control-strings/README.md",
+		"/Users/trevorburkholder/Documents/dev/react/newedenfaces/node_modules/alt/docs/flush.md",
+		"/Users/trevorburkholder/Documents/dev/react/newedenfaces/server.js",
+		"/Users/trevorburkholder/Documents/dev/react/newedenfaces/gulpfile.js",
+		"/Users/trevorburkholder/Documents/dev/react/newedenfaces/app/stylesheets/main.less",
+		"/Users/trevorburkholder/Documents/dev/react/newedenfaces/package.json",
+		"/Users/trevorburkholder/Downloads/pcgen/pcgen.sh",
+		"/Users/trevorburkholder/Downloads/pcgen 2/pcgen.sh",
+		"/opt/X11/include/freetype2/ftlzw.h",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/db/migrate/20160616014743_create_providers.rb",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/app/serializers/provider_serializer.rb",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/config/environments/production.rb",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/app/models/provider.rb",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/app/controllers/providers_controller.rb",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/Gemfile",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-client/bower.json",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/app/models/user.rb",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/straps/rootstrap.sh",
+		"/Users/trevorburkholder/Documents/dev/yeggler/yeggler-server/straps/bootstrap.sh",
+		"/Users/trevorburkholder/Documents/dev/yeggler/.gitignore",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/bower.json",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/Gemfile",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/config.ru",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/config/application.rb",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/navbar/navbar.jade",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/main/main.jade",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/index.route.js",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/main/main.controller.js",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/index.config.js",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/navbar/navbar.directive.js",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/gulp/server.js",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/config/initializers/devise_token_auth.rb",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/app/models/user.rb",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/Gemfile.bk",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/Vagrantfile",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/app/controllers/application_controller.rb",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/config/puma.rb",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/Procfile",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/straps/bootstrap.sh",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/sign-up/sign-up.directive.js",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/config/routes.rb",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/sign-in/sign-in.directive.js",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/sign-in/sign-in.jade",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/index.run.js",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/navbar/navbar.directive.spec.js",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/sign-up/sign-up.jade",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/config/initializers/cors.rb",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/index.html",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/sign-in/sign-in.scss",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/index.module.js",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/.eslintrc",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/package.json",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/src/app/components/navbar/navbar.html.haml",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/.env",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/.gitignore",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/yeggler-server/Gemfile",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/yeggler-server/yeggler-server/.gitignore",
+		"/Users/trevorburkholder/Documents/dev/angular-projects/yeggler-client/Vagrantfile",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/rails-vagrant/app/assets/stylesheets/application.scss",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/rails-vagrant/Gemfile",
+		"/Users/trevorburkholder/Documents/dev/mean-projects/mean/modules/users/client/css/users.css",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/rails-vagrant/Bowerfile",
+		"/Users/trevorburkholder/Documents/dev/mean-projects/pluralsight/MultiVision/public/app/account/services/user.service.js",
+		"/Users/trevorburkholder/Documents/dev/mean-projects/pluralsight/MultiVision/public/app/account/navbar-login.jade",
+		"/Users/trevorburkholder/Documents/dev/mean-projects/pluralsight/MultiVision/.gitignore",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/rails-vagrant/app/assets/stylesheets/application.css",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/rails-vagrant/scripts/rootstrap.sh",
+		"/Users/trevorburkholder/Documents/dev/rails-projects/rails-vagrant/app/assets/stylesheets/scaffolds.scss",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/server/main.js",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/server/routes/items.js",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/server/database.js",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/helpers/rest-helper.js",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/stores/GroceryItemStore.jsx",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/server/models/GroceryItem.js",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/gulpfile.js",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/components/GroceryItem.jsx",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/actions/GroceryItemActionCreator.jsx",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/components/GroceryItemList.jsx",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/stores/GroceryItemStores.jsx",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/actions/GroceryListActionCreator.jsx",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/components/GroceryListAddItem.jsx",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/main.jsx",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/styles.css",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/app/index.ejs",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/package.json",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/bower.json",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/.gitignore",
+		"/Users/trevorburkholder/Documents/react-projects/react-express/client/index.ejs",
+		"/Users/trevorburkholder/Documents/angular2-projects/angular2-reddit-base/index.html",
+		"/Users/trevorburkholder/Documents/angular2-projects/angular2-reddit-base/app.ts",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/trevorburkholder/Documents/rails-projects/folio/bower.json",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/trevorburkholder/Documents/rails-projects/folio/Gemfile",
+		"/Users/trevorburkholder/Documents/ruby-projects/temp.dat",
+		"/Users/trevorburkholder/Documents/ruby-projects/c2f.rb",
+		"/Users/trevorburkholder/Documents/ruby-proj/ruby.rb",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/courses/courses.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/includes/scripts.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/app.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/main/main.ctrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/profile.ctrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/notifier.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/identity.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/course-list.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/index.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/controllers/users.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/services/user.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/login.ctrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/signup.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/services/auth.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/signup.ctrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/test/test-app.js",
+		"/Users/trevorburkholder/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/profileCtrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/profile.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/navbar-login.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/config/routes.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/models/User.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/config/auth.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"bower_components",
+			"@include",
+			"@",
+			"bower_components",
+			"//",
+			"signIn",
+			"middlewar",
+			"registration",
+			"$scope.registrationForm",
+			"loginForm",
+			"registrationForm",
+			"SignInController",
+			"signIn",
+			"12",
+			"console.log",
+			"ExampleController",
+			"myExample",
+			":",
+			"sql",
+			"form",
+			"exports",
+			"div",
+			"article",
+			"tab",
+			"expand",
+			"3",
+			"5",
+			"expand",
+			"5",
+			"eof",
+			"new ",
+			".",
+			"mvAuth",
+			"auth",
+			"update",
+			"mvU",
+			"mvI",
+			"Identity",
+			"mv",
+			"indent",
+			"tab",
+			"userList",
+			"\"",
+			"‘",
+			"’",
+			"‘",
+			"”",
+			"“"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"node_modules",
+			"@extend",
+			"$",
+			"node_modules",
+			"/",
+			"signInForm",
+			"registrationForm",
+			"vm.registrationForm",
+			"vm.signIn",
+			"vm.registration",
+			"SignUpController",
+			"signUp",
+			"$log",
+			"SignInController",
+			"signIn",
+			"form",
+			"div",
+			"'\n",
+			"auth",
+			"mvAuth",
+			"u",
+			"i",
+			"identity",
+			"",
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1310,
+								1310
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 35.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kanban.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/nodeProj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
